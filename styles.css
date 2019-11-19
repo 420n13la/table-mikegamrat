@@ -1,0 +1,32 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.yeh {
+  background-color:dodgerblue;
+}
+
+th, td {
+  padding: 15px;
+  width:100px;
+  text-align:center;
+}
+
+.yuh{
+  background-color:dodgerblue;
+}
+
+.yah{
+  background-color:wheat;
+}
+
+header{
+  font-size:100px;
+  text-align:center;
+  color:crimson;
+}
+
+.yos{
+  color:crimson;
+}
